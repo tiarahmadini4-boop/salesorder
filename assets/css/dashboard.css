@@ -1,0 +1,120 @@
+/*
+ * dashboard.css
+ * Custom styles untuk halaman dashboard (admin, sales, manager)
+ * Menyelaraskan warna dengan tema hijau mint dari halaman login
+ * File ini TIDAK mengubah sb-admin-2.min.css
+ */
+
+.border-left-success {
+    border-left: 0.25rem solid #10b981 !important;
+}
+
+.text-success {
+    color: #10b981 !important;
+}
+
+.border-left-primary {
+    border-left: 0.25rem solid #34d399 !important;
+}
+
+.text-primary {
+    color: #0d9c6f !important;
+}
+
+.btn-success {
+    background-color: #10b981;
+    border-color: #10b981;
+}
+
+.btn-success:hover {
+    background-color: #0d9c6f;
+    border-color: #0d9c6f;
+}
+
+.sidebar.bg-gradient-primary,
+.sidebar-dark {
+    background-color: #0a2e24 !important;
+    background-image: linear-gradient(180deg, #10b981 0%, #0a2e24 100%) !important;
+}
+
+.sidebar-dark .nav-item .nav-link.active,
+.sidebar-dark .nav-item.active .nav-link {
+    background-color: rgba(255, 255, 255, 0.12);
+    border-radius: 0.35rem;
+}
+
+.topbar.navbar-light {
+    background-color: #fff;
+    border-bottom: 1px solid #d1fae5;
+}
+
+.card.shadow {
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(16, 100, 70, 0.1) !important;
+}
+
+/* Ikon di pojok kanan atas card statistik dashboard */
+.stat-card-icon {
+    font-size: 1.75rem;
+    opacity: 0.85;
+}
+
+/* Empty state saat data chart belum ada (semua nilai 0) */
+.chart-empty-state {
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    color: #b7c7c1;
+}
+
+.chart-empty-state i {
+    font-size: 2rem;
+}
+
+.chart-empty-state p {
+    font-size: 0.85rem;
+    margin: 0;
+}
+
+/* Badge status sales order */
+.badge-status {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.65rem;
+    border-radius: 10rem;
+}
+
+.badge-status-draft {
+    background-color: #fef3c7;
+    color: #92400e;
+}
+
+.badge-status-dikirim {
+    background-color: #dbeafe;
+    color: #1e40af;
+}
+
+.badge-status-selesai {
+    background-color: #d1fae5;
+    color: #065f46;
+}
+
+.badge-status-dibatalkan {
+    background-color: #fee2e2;
+    color: #991b1b;
+}
+
+/* Baris status di panel ringkasan, biar badge dan angka sejajar */
+.status-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.4rem 0;
+}
+
+.status-row strong {
+    font-size: 0.95rem;
+}

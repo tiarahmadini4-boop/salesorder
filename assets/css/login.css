@@ -1,0 +1,175 @@
+/*
+ * login.css
+ * Custom styles khusus halaman Login - Sales Order PT Maju Jaya
+ * File ini TIDAK mengubah sb-admin-2.min.css, hanya menambah style tambahan
+ * yang hanya berlaku untuk elemen di dalam .login-page-wrapper
+ */
+
+html {
+    height: 100%;
+}
+
+body.login-page-wrapper {
+    height: 100%;
+    margin: 0;
+}
+
+.login-page-wrapper.bg-gradient-primary {
+    background-color: #dcfce7;
+    background-image: linear-gradient(160deg, #f0fdf4 0%, #dcfce7 50%, #bbf7d0 100%);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-y: auto;
+}
+
+.login-page-wrapper .container {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.login-page-wrapper .card.o-hidden {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    border-radius: 1rem;
+    box-shadow: 0 1rem 3rem rgba(16, 100, 70, 0.18) !important;
+}
+
+.login-page-wrapper .login-illustration {
+    background: linear-gradient(150deg, #34d399 0%, #10b981 100%);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.login-page-wrapper .login-illustration::before {
+    content: '';
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.15);
+    top: -60px;
+    right: -70px;
+}
+
+.login-page-wrapper .login-illustration::after {
+    content: '';
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: transparent;
+    bottom: -40px;
+    left: -40px;
+}
+
+.login-page-wrapper .login-illustration-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    color: #fff;
+    padding: 2.5rem;
+}
+
+.login-page-wrapper .login-illustration-icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto 1.25rem;
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.85rem;
+}
+
+.login-page-wrapper .login-illustration-content h2 {
+    font-weight: 700;
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+}
+
+.login-page-wrapper .login-illustration-content p {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.85);
+    margin-bottom: 0;
+}
+
+.login-page-wrapper .login-badge-row {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-top: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.login-page-wrapper .login-badge-row span {
+    font-size: 0.7rem;
+    padding: 0.35rem 0.75rem;
+    border-radius: 10rem;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    color: #fff;
+}
+
+.login-page-wrapper .login-brand-icon {
+    width: 56px;
+    height: 56px;
+    border-radius: 1rem;
+    background: linear-gradient(150deg, #34d399 0%, #10b981 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 1.5rem;
+    margin: 0 auto 1rem;
+}
+
+.login-page-wrapper form.user .form-control-user {
+    border-radius: 0.6rem;
+    border: 1.5px solid #d1fae5;
+    background-color: #f0fdf4;
+    padding: 0.85rem 1rem;
+}
+
+.login-page-wrapper form.user .form-control-user:focus {
+    border-color: #10b981;
+    background-color: #fff;
+    box-shadow: 0 0 0 0.2rem rgba(16, 185, 129, 0.15);
+}
+
+.login-page-wrapper form.user .btn-user {
+    border-radius: 0.6rem;
+    background-image: linear-gradient(135deg, #34d399 0%, #10b981 100%);
+    border: none;
+    font-weight: 700;
+    letter-spacing: 0.02rem;
+    padding: 0.85rem 1rem;
+}
+
+.login-page-wrapper form.user .btn-user:hover {
+    background-image: linear-gradient(135deg, #2bbd8a 0%, #0d9c6f 100%);
+}
+
+.login-page-wrapper .alert-danger {
+    border-radius: 0.6rem;
+    background-color: #fee2e2;
+    border-color: #fecaca;
+    color: #991b1b;
+}
+
+.login-page-wrapper a.small {
+    color: #10b981;
+    font-weight: 600;
+}
+
+.login-page-wrapper a.small:hover {
+    color: #0a2e24;
+}
