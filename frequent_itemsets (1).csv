@@ -1,0 +1,193 @@
+itemsets,support,count,length
+Rating_Tinggi,0.47469135802469137,1538,1
+Harga_Rendah,0.3345679012345679,1084,1
+Harga_Sedang,0.3345679012345679,1084,1
+Vote_Tinggi,0.3333333333333333,1080,1
+Vote_Sedang,0.3333333333333333,1080,1
+Vote_Rendah,0.3333333333333333,1080,1
+Harga_Tinggi,0.3308641975308642,1072,1
+Rating_Rendah,0.2996913580246914,971,1
+Rating_Sedang,0.22561728395061728,731,1
+Produk_Lainnya,0.16944444444444445,549,1
+Produk_Cream,0.16203703703703703,525,1
+Produk_Serum,0.13209876543209875,428,1
+Produk_Eye,0.10864197530864197,352,1
+Produk_Cleanser,0.0978395061728395,317,1
+Produk_Mask,0.09567901234567901,310,1
+Produk_Moisturizer,0.09537037037037037,309,1
+Produk_Set,0.07746913580246914,251,1
+Produk_Sunscreen,0.05308641975308642,172,1
+Produk_Treatment,0.05185185185185185,168,1
+Produk_Oil,0.050617283950617285,164,1
+Produk_Gel,0.03796296296296296,123,1
+Produk_Lotion,0.037654320987654324,122,1
+Produk_Balm,0.030864197530864196,100,1
+Produk_Toner,0.021296296296296296,69,1
+"Rating_Rendah, Vote_Rendah",0.22530864197530864,730,2
+"Rating_Tinggi, Vote_Tinggi",0.20833333333333334,675,2
+"Rating_Tinggi, Vote_Sedang",0.1765432098765432,572,2
+"Harga_Sedang, Rating_Tinggi",0.1654320987654321,536,2
+"Harga_Rendah, Rating_Tinggi",0.16358024691358025,530,2
+"Harga_Tinggi, Rating_Tinggi",0.145679012345679,472,2
+"Harga_Tinggi, Vote_Rendah",0.1367283950617284,443,2
+"Harga_Rendah, Vote_Tinggi",0.12962962962962962,420,2
+"Harga_Sedang, Vote_Tinggi",0.12685185185185185,411,2
+"Harga_Tinggi, Vote_Sedang",0.11728395061728394,380,2
+"Harga_Tinggi, Rating_Rendah",0.1169753086419753,379,2
+"Harga_Rendah, Vote_Sedang",0.10895061728395061,353,2
+"Harga_Sedang, Vote_Sedang",0.10709876543209877,347,2
+"Rating_Sedang, Vote_Sedang",0.10432098765432099,338,2
+"Rating_Sedang, Vote_Tinggi",0.10308641975308643,334,2
+"Harga_Sedang, Vote_Rendah",0.10061728395061728,326,2
+"Harga_Rendah, Vote_Rendah",0.09598765432098766,311,2
+"Harga_Rendah, Rating_Rendah",0.09537037037037037,309,2
+"Rating_Tinggi, Vote_Rendah",0.08981481481481482,291,2
+"Harga_Sedang, Rating_Rendah",0.08734567901234568,283,2
+"Harga_Sedang, Rating_Sedang",0.08179012345679013,265,2
+"Produk_Lainnya, Rating_Tinggi",0.0787037037037037,255,2
+"Harga_Tinggi, Vote_Tinggi",0.07685185185185185,249,2
+"Produk_Cream, Rating_Tinggi",0.07654320987654321,248,2
+"Harga_Rendah, Rating_Sedang",0.07561728395061729,245,2
+"Harga_Tinggi, Produk_Cream",0.07160493827160494,232,2
+"Harga_Tinggi, Rating_Sedang",0.06820987654320988,221,2
+"Produk_Cream, Vote_Tinggi",0.0669753086419753,217,2
+"Harga_Tinggi, Produk_Serum",0.06604938271604938,214,2
+"Harga_Rendah, Produk_Lainnya",0.06481481481481481,210,2
+"Harga_Tinggi, Produk_Lainnya",0.06358024691358025,206,2
+"Harga_Sedang, Produk_Cream",0.06327160493827161,205,2
+"Produk_Serum, Rating_Tinggi",0.06049382716049383,196,2
+"Harga_Rendah, Produk_Cleanser",0.05925925925925926,192,2
+"Produk_Lainnya, Vote_Sedang",0.05895061728395062,191,2
+"Produk_Lainnya, Vote_Rendah",0.05771604938271605,187,2
+"Produk_Cleanser, Rating_Tinggi",0.05648148148148148,183,2
+"Produk_Set, Vote_Rendah",0.05617283950617284,182,2
+"Produk_Cream, Vote_Sedang",0.05277777777777778,171,2
+"Produk_Lainnya, Vote_Tinggi",0.05277777777777778,171,2
+"Rating_Rendah, Vote_Sedang",0.05246913580246913,170,2
+"Produk_Moisturizer, Rating_Tinggi",0.05154320987654321,167,2
+"Produk_Lainnya, Rating_Rendah",0.05123456790123457,166,2
+"Harga_Sedang, Produk_Serum",0.04876543209876543,158,2
+"Produk_Serum, Vote_Sedang",0.047530864197530866,154,2
+"Produk_Cream, Rating_Rendah",0.04506172839506173,146,2
+"Produk_Eye, Vote_Tinggi",0.04506172839506173,146,2
+"Produk_Set, Rating_Rendah",0.04506172839506173,146,2
+"Produk_Serum, Vote_Rendah",0.044753086419753084,145,2
+"Produk_Mask, Rating_Tinggi",0.0441358024691358,143,2
+"Produk_Eye, Rating_Tinggi",0.042901234567901236,139,2
+"Harga_Sedang, Produk_Eye",0.042901234567901236,139,2
+"Produk_Cream, Vote_Rendah",0.042283950617283954,137,2
+"Harga_Sedang, Produk_Lainnya",0.04104938271604938,133,2
+"Produk_Serum, Rating_Rendah",0.040740740740740744,132,2
+"Produk_Cream, Rating_Sedang",0.0404320987654321,131,2
+"Produk_Cleanser, Vote_Tinggi",0.040123456790123455,130,2
+"Produk_Serum, Vote_Tinggi",0.03981481481481482,129,2
+"Produk_Lainnya, Rating_Sedang",0.03950617283950617,128,2
+"Produk_Cream, Produk_Eye",0.03950617283950617,128,2
+"Harga_Sedang, Produk_Moisturizer",0.03950617283950617,128,2
+"Produk_Moisturizer, Vote_Tinggi",0.038580246913580245,125,2
+"Harga_Tinggi, Produk_Eye",0.037037037037037035,120,2
+"Produk_Eye, Vote_Sedang",0.03641975308641975,118,2
+"Produk_Mask, Vote_Rendah",0.03641975308641975,118,2
+"Produk_Cleanser, Vote_Sedang",0.03611111111111111,117,2
+"Harga_Rendah, Produk_Mask",0.03487654320987654,113,2
+"Harga_Rendah, Produk_Moisturizer",0.03487654320987654,113,2
+"Harga_Sedang, Produk_Mask",0.033950617283950615,110,2
+"Produk_Eye, Rating_Rendah",0.03333333333333333,108,2
+"Produk_Eye, Rating_Sedang",0.032407407407407406,105,2
+"Produk_Mask, Vote_Sedang",0.03209876543209877,104,2
+"Harga_Tinggi, Produk_Set",0.03148148148148148,102,2
+"Produk_Serum, Rating_Sedang",0.030864197530864196,100,2
+"Produk_Mask, Rating_Rendah",0.030864197530864196,100,2
+"Harga_Sedang, Produk_Cleanser",0.029320987654320986,95,2
+"Produk_Moisturizer, Vote_Rendah",0.029012345679012345,94,2
+"Harga_Rendah, Produk_Eye",0.028703703703703703,93,2
+"Produk_Oil, Rating_Tinggi",0.02808641975308642,91,2
+"Produk_Moisturizer, Vote_Sedang",0.027777777777777776,90,2
+"Harga_Rendah, Produk_Cream",0.027160493827160494,88,2
+"Produk_Mask, Vote_Tinggi",0.027160493827160494,88,2
+"Produk_Eye, Vote_Rendah",0.027160493827160494,88,2
+"Harga_Tinggi, Produk_Mask",0.026851851851851852,87,2
+"Produk_Sunscreen, Rating_Tinggi",0.026234567901234566,85,2
+"Produk_Treatment, Rating_Tinggi",0.025925925925925925,84,2
+"Harga_Rendah, Produk_Sunscreen",0.025,81,2
+"Produk_Moisturizer, Rating_Sedang",0.024382716049382715,79,2
+"Harga_Sedang, Produk_Oil",0.024074074074074074,78,2
+"Harga_Rendah, Produk_Set",0.02345679012345679,76,2
+"Produk_Set, Rating_Tinggi",0.022839506172839506,74,2
+"Harga_Sedang, Produk_Set",0.022530864197530864,73,2
+"Rating_Rendah, Vote_Tinggi",0.021913580246913582,71,2
+"Harga_Sedang, Produk_Treatment",0.021913580246913582,71,2
+"Produk_Cleanser, Vote_Rendah",0.021604938271604937,70,2
+"Produk_Treatment, Vote_Sedang",0.021604938271604937,70,2
+"Produk_Sunscreen, Vote_Tinggi",0.020987654320987655,68,2
+"Produk_Cleanser, Rating_Rendah",0.020987654320987655,68,2
+"Harga_Tinggi, Produk_Moisturizer",0.020987654320987655,68,2
+"Produk_Mask, Rating_Sedang",0.020679012345679013,67,2
+"Produk_Sunscreen, Vote_Sedang",0.020679012345679013,67,2
+"Produk_Lotion, Rating_Tinggi",0.020679012345679013,67,2
+"Produk_Cleanser, Rating_Sedang",0.020370370370370372,66,2
+"Harga_Tinggi, Rating_Rendah, Vote_Rendah",0.09135802469135802,296,3
+"Harga_Rendah, Rating_Tinggi, Vote_Tinggi",0.08209876543209876,266,3
+"Harga_Sedang, Rating_Tinggi, Vote_Tinggi",0.07993827160493827,259,3
+"Harga_Sedang, Rating_Rendah, Vote_Rendah",0.06851851851851852,222,3
+"Harga_Rendah, Rating_Rendah, Vote_Rendah",0.0654320987654321,212,3
+"Harga_Tinggi, Rating_Tinggi, Vote_Sedang",0.06327160493827161,205,3
+"Harga_Sedang, Rating_Tinggi, Vote_Sedang",0.058333333333333334,189,3
+"Harga_Rendah, Rating_Tinggi, Vote_Sedang",0.05493827160493827,178,3
+"Harga_Tinggi, Rating_Tinggi, Vote_Tinggi",0.046296296296296294,150,3
+"Produk_Set, Rating_Rendah, Vote_Rendah",0.041666666666666664,135,3
+"Produk_Cream, Rating_Tinggi, Vote_Tinggi",0.040123456790123455,130,3
+"Harga_Sedang, Rating_Sedang, Vote_Tinggi",0.03981481481481482,129,3
+"Harga_Rendah, Rating_Sedang, Vote_Tinggi",0.03950617283950617,128,3
+"Produk_Lainnya, Rating_Rendah, Vote_Rendah",0.037037037037037035,120,3
+"Harga_Sedang, Rating_Sedang, Vote_Sedang",0.037037037037037035,120,3
+"Harga_Rendah, Produk_Cleanser, Rating_Tinggi",0.0367283950617284,119,3
+"Harga_Tinggi, Rating_Tinggi, Vote_Rendah",0.03611111111111111,117,3
+"Harga_Tinggi, Produk_Cream, Rating_Tinggi",0.03580246913580247,116,3
+"Harga_Tinggi, Rating_Sedang, Vote_Sedang",0.03518518518518519,114,3
+"Produk_Lainnya, Rating_Tinggi, Vote_Tinggi",0.032407407407407406,105,3
+"Harga_Rendah, Rating_Sedang, Vote_Sedang",0.03209876543209877,104,3
+"Produk_Cream, Rating_Rendah, Vote_Rendah",0.03117283950617284,101,3
+"Harga_Sedang, Produk_Cream, Vote_Tinggi",0.030246913580246913,98,3
+"Harga_Tinggi, Produk_Lainnya, Rating_Tinggi",0.029938271604938272,97,3
+"Produk_Lainnya, Rating_Tinggi, Vote_Sedang",0.02962962962962963,96,3
+"Produk_Serum, Rating_Rendah, Vote_Rendah",0.02962962962962963,96,3
+"Harga_Sedang, Produk_Cream, Rating_Tinggi",0.029012345679012345,94,3
+"Harga_Tinggi, Produk_Serum, Rating_Tinggi",0.029012345679012345,94,3
+"Produk_Cleanser, Rating_Tinggi, Vote_Tinggi",0.028703703703703703,93,3
+"Harga_Rendah, Produk_Lainnya, Rating_Tinggi",0.02808641975308642,91,3
+"Harga_Rendah, Produk_Cleanser, Vote_Tinggi",0.027469135802469135,89,3
+"Harga_Sedang, Rating_Tinggi, Vote_Rendah",0.027160493827160494,88,3
+"Produk_Cream, Rating_Tinggi, Vote_Sedang",0.026851851851851852,87,3
+"Harga_Rendah, Rating_Tinggi, Vote_Rendah",0.02654320987654321,86,3
+"Harga_Tinggi, Produk_Set, Vote_Rendah",0.02654320987654321,86,3
+"Harga_Tinggi, Produk_Serum, Vote_Rendah",0.02654320987654321,86,3
+"Harga_Tinggi, Produk_Lainnya, Vote_Rendah",0.026234567901234566,85,3
+"Harga_Tinggi, Produk_Lainnya, Vote_Sedang",0.025925925925925925,84,3
+"Harga_Tinggi, Produk_Serum, Rating_Rendah",0.025308641975308643,82,3
+"Produk_Mask, Rating_Rendah, Vote_Rendah",0.025308641975308643,82,3
+"Produk_Moisturizer, Rating_Tinggi, Vote_Tinggi",0.025,81,3
+"Produk_Serum, Rating_Tinggi, Vote_Sedang",0.024691358024691357,80,3
+"Harga_Tinggi, Produk_Cream, Vote_Sedang",0.024691358024691357,80,3
+"Harga_Tinggi, Produk_Cream, Vote_Tinggi",0.024382716049382715,79,3
+"Harga_Sedang, Produk_Serum, Rating_Tinggi",0.024074074074074074,78,3
+"Produk_Serum, Rating_Tinggi, Vote_Tinggi",0.023765432098765433,77,3
+"Harga_Tinggi, Rating_Sedang, Vote_Tinggi",0.023765432098765433,77,3
+"Harga_Rendah, Produk_Lainnya, Vote_Tinggi",0.02345679012345679,76,3
+"Harga_Sedang, Produk_Moisturizer, Rating_Tinggi",0.023148148148148147,75,3
+"Produk_Cream, Rating_Sedang, Vote_Tinggi",0.022839506172839506,74,3
+"Harga_Tinggi, Produk_Set, Rating_Rendah",0.022839506172839506,74,3
+"Harga_Tinggi, Produk_Serum, Vote_Sedang",0.022839506172839506,74,3
+"Harga_Tinggi, Produk_Cream, Vote_Rendah",0.022530864197530864,73,3
+"Produk_Eye, Rating_Tinggi, Vote_Tinggi",0.022222222222222223,72,3
+"Harga_Rendah, Produk_Lainnya, Vote_Sedang",0.021913580246913582,71,3
+"Harga_Rendah, Rating_Rendah, Vote_Sedang",0.021913580246913582,71,3
+"Harga_Tinggi, Produk_Lainnya, Rating_Rendah",0.021296296296296296,69,3
+"Harga_Tinggi, Produk_Cream, Rating_Rendah",0.021296296296296296,69,3
+"Produk_Cleanser, Rating_Tinggi, Vote_Sedang",0.020987654320987655,68,3
+"Harga_Sedang, Produk_Lainnya, Rating_Tinggi",0.020679012345679013,67,3
+"Harga_Rendah, Produk_Cleanser, Vote_Sedang",0.020679012345679013,67,3
+"Produk_Eye, Rating_Rendah, Vote_Rendah",0.020370370370370372,66,3
+"Harga_Rendah, Produk_Lainnya, Rating_Rendah",0.020061728395061727,65,3
+"Harga_Tinggi, Produk_Set, Rating_Rendah, Vote_Rendah",0.021604938271604937,70,4
+"Harga_Rendah, Produk_Cleanser, Rating_Tinggi, Vote_Tinggi",0.020370370370370372,66,4
